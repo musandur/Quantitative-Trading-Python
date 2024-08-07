@@ -1,3 +1,5 @@
 quantenvironment.yml
 .ipynb_checkpoints/
 HISTORIC_PRICES.csv
+quantenvironment-macos-m1.yml
+.DS_Store
